@@ -1,5 +1,8 @@
-## Hi there 👋
+![thumbnail](https://github.com/polarisofficial/.github/blob/main/images/thumbnail.png)
 
+## Polatis is the Music Game with map-generating AI
+
+- Auto-map-generating AI
 <!--
 
 **Here are some ideas to get you started:**
